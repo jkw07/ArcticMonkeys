@@ -1,0 +1,15 @@
+.info {
+  font-variant: small-caps;
+  line-height: 50%;
+  margin-top: 50px;
+}
+.info .bold {
+  font-weight: bold;
+}
+.info .gray {
+  color: rgb(83, 74, 74);
+}
+
+h1 {
+  color: red;
+}/*# sourceMappingURL=styles.css.map */
