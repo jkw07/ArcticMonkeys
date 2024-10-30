@@ -1,3 +1,21 @@
+* {
+    font-family: 'Palatino Linotype';
+}
+header {
+    padding: 20px;
+    line-height: 12px;
+    letter-spacing: 2px;
+    text-align: center;
+    .artists {
+        text-transform: uppercase;
+        font-size: 11px;
+    }
+}
+main {
+    margin: 0 auto;
+    width: 400px;
+    height: auto;
+}
 .info {
     font-variant: small-caps;
     line-height: 50%;
@@ -8,7 +26,4 @@
     .gray {
         color: rgb(83, 74, 74);
     }
-}
-h1 {
-    color: red;
 }
